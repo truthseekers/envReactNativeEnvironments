@@ -1,0 +1,5 @@
+open xcworkspace, see the targets:
+
+top menu: product -> scheme -> edit scheme.
+
+all instructions are in the react-native-config docs.
